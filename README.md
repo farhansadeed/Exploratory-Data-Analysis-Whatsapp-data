@@ -1,13 +1,6 @@
 # Exploratory-Data-Analysis-Whatsapp-data
 ## A Comprehensive Data Analysis on a WhatsApp Group Chat
 
-- Have a look at a **detailed [Medium Article](https://medium.com/@tusharnankani/an-exhaustive-whatsapp-chat-data-analysis-f8421a845c30)** for this project!
-- [Whatsapp Chat Data Analysis - Notebook on GitHub](https://github.com/tusharnankani/whatsapp-chat-data-analysis/blob/main/whatsapp-data-analysis.ipynb)
-
-If the Notebook fails to load:
-- Check the complete code, on [this basic HTML Page](https://tusharnankani.github.io/whatsapp-chat-data-analysis/).
-- [Whatsapp Chat Data Analysis - Notebook on Jovian](https://jovian.ml/tusharnankani3/whatsapp-data-analysis)
-
 ## *Overview*
 
 - [Introduction](#introduction)
@@ -41,7 +34,6 @@ Whatsapp has quickly become the world’s most popular text and voice messaging 
 ### Beginning. How do I export my conversations? From Where To Obtain Data?
 
 <p align="center">
-<img src="assets/extras/4-the-office.gif" width=350>
 </p>
 
 - The first step is **Data Retrieval & Preprocessing**, that is to **gather the data**. WhatsApp allows you to **export your chats** through a **.txt format**. 
